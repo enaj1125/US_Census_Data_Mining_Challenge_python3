@@ -1,7 +1,7 @@
-# Use Python Script to organize and process the national data set from US Census 5 years summary big files
-# This folder contains scripts and text files, which demenstrate an example of processing household income data. Other types of data can be similarly processed by modifying these scripts.
-# Author: Yan Jiang
-# Last Edit Date: 2015, June
+Use Python Script to organize and process the national data set from US Census 5 years summary big files
+This folder contains scripts and text files, which demenstrate an example of processing household income data. Other types of data can be similarly processed by modifying these scripts.
+Author: Yan Jiang
+Last Edit Date: 2015, June
 ##############################################################################################
 
 Steps:
